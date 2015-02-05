@@ -1,0 +1,7 @@
+path: /opt/resources/rb-couchdb-populate
+puppetdir: /etc/puppet
+puppetfile: site.pp
+dbhost: "localhost"
+dbport: "5984"
+dbname: configuration
+dbfield: classes
