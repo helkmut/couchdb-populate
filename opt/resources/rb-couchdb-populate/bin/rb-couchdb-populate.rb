@@ -1,4 +1,4 @@
-#!/usr/lcal/rvm/rubies/ruby-2.2.0/bin/ruby
+#!/usr/local/rvm/rubies/ruby-2.2.0/bin/ruby
 
 # Author: Gabriel Prestes
 # Created: 2015-02-04
